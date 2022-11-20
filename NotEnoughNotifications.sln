@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33103.201
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotEnoughNotifications", "NotEnoughNotifications\NotEnoughNotifications.csproj", "{A967D402-2EF8-4875-86FF-CC1CD1497024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeN Update Checker", "NeN Update Checker\NeN Update Checker.csproj", "{9416FC58-9F6D-4D9D-9AAC-CE45C166307F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A967D402-2EF8-4875-86FF-CC1CD1497024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A967D402-2EF8-4875-86FF-CC1CD1497024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A967D402-2EF8-4875-86FF-CC1CD1497024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9416FC58-9F6D-4D9D-9AAC-CE45C166307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9416FC58-9F6D-4D9D-9AAC-CE45C166307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9416FC58-9F6D-4D9D-9AAC-CE45C166307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9416FC58-9F6D-4D9D-9AAC-CE45C166307F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
